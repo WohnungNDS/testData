@@ -1,0 +1,28 @@
+fields:
+  - name: Value
+    type: number
+  - name: Year
+    type: integer
+  - name: region
+    type: string
+    constraints:
+      enum:
+        - germany
+        - baden-wuerttemberg
+        - bavaria
+        - berlin
+        - brandenburg
+        - bremen
+        - hamburg
+        - hesse
+        - mecklenburg western pomerania
+        - lower saxony
+        - north rhine-westphalia
+        - rhineland palatinate
+        - saarland
+        - saxony
+        - saxony-anhalt
+        - schleswig-holstein
+        - thuringia
+  - name: GeoCode
+    type: string
