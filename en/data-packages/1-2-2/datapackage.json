@@ -11,51 +11,51 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Severely materially deprived persons",
-                "Persons at risk of poverty or social exclusion",
-                ""
-              ]
-            },
-            "title": "Time series"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 years and younger",
+                "",
                 "18 to under 65 years",
                 "65 years and older",
-                ""
+                "17 years and younger"
               ]
             },
             "title": "Age group"
           },
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Persons at risk of poverty or social exclusion",
+                "Severely materially deprived persons"
+              ]
+            },
+            "title": "Time series"
           }
         ]
       }
