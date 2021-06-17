@@ -13,13 +13,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -28,11 +33,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -49,13 +49,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -64,11 +69,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -85,13 +85,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -100,11 +105,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -121,13 +121,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -136,11 +141,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -157,13 +157,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -172,11 +177,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -193,13 +193,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -208,11 +213,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -229,13 +229,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -244,11 +249,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -265,13 +265,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -280,11 +285,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -301,13 +301,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -316,11 +321,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -337,13 +337,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -352,11 +357,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -373,13 +373,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -388,11 +393,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -409,13 +409,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -424,11 +429,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -445,13 +445,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -460,11 +465,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -481,13 +481,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -496,11 +501,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -517,13 +517,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -532,11 +537,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -553,13 +553,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -568,11 +573,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -589,13 +589,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -604,11 +609,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -625,13 +625,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -640,11 +645,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -661,13 +661,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -676,11 +681,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -697,13 +697,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -712,11 +717,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -733,13 +733,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -748,11 +753,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -769,13 +769,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -784,11 +789,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -805,13 +805,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -820,11 +825,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -841,13 +841,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -856,11 +861,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -877,13 +877,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -892,11 +897,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -913,13 +913,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -928,11 +933,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -949,13 +949,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -964,11 +969,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -985,13 +985,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1000,11 +1005,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1021,13 +1021,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1036,11 +1041,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1057,13 +1057,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1072,11 +1077,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1093,13 +1093,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1108,11 +1113,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1129,13 +1129,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1144,11 +1149,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1165,13 +1165,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1180,11 +1185,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1201,13 +1201,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1216,11 +1221,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1237,13 +1237,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1252,11 +1257,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1273,13 +1273,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1288,11 +1293,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1309,13 +1309,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1324,11 +1329,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1345,13 +1345,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1360,11 +1365,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1381,13 +1381,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1396,11 +1401,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1417,13 +1417,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1432,11 +1437,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1453,13 +1453,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1468,11 +1473,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1489,13 +1489,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1504,11 +1509,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1525,16 +1525,6 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -1544,27 +1534,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Germany",
                 "Baden-Wuerttemberg",
                 "Bavaria",
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
-                "Germany",
                 "Hamburg",
                 "Hesse",
-                "Lower Saxony",
                 "Mecklenburg Western Pomerania",
+                "Lower Saxony",
                 "North Rhine-Westphalia",
                 "Rhineland Palatinate",
                 "Saarland",
                 "Saxony",
                 "Saxony-Anhalt",
                 "Schleswig-Holstein",
-                "Thuringia"
+                "Thuringia",
+                ""
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       },
@@ -1581,13 +1581,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1596,11 +1601,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1617,13 +1617,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1632,11 +1637,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1653,13 +1653,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1668,11 +1673,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1689,13 +1689,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1704,11 +1709,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1725,13 +1725,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1740,11 +1745,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1761,13 +1761,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1776,11 +1781,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1797,13 +1797,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1812,11 +1817,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1833,13 +1833,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1848,11 +1853,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1869,13 +1869,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1884,11 +1889,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1905,13 +1905,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1920,11 +1925,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1941,13 +1941,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1956,11 +1961,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -1977,13 +1977,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -1992,11 +1997,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2013,13 +2013,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2028,11 +2033,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2049,13 +2049,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2064,11 +2069,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2085,13 +2085,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2100,11 +2105,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2121,13 +2121,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2136,11 +2141,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2157,27 +2157,78 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "19 and under",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 and over"
+                "Female",
+                "Male",
+                ""
               ]
             },
-            "title": "Age"
+            "title": "Sex"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wales",
+                "England",
+                "England and Wales",
+                "Northern Ireland",
+                "Scotland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "East Midlands",
+                "East of England",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and the Humber",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Health Board",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Powys Teaching",
+                "Hywel Dda University",
+                "Cwm Taf University",
+                "Cardiff and Vale University",
+                "Betsi Cadwaladr University",
+                "Aneurin Bevan University",
+                "Abertawe Bro Morgannwg University",
+                ""
+              ]
+            },
+            "title": "Health Board"
           },
           {
             "name": "Birth weight",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "1000 to 1499",
                 "1500 to 1999",
                 "2000 to 2499",
@@ -2188,83 +2239,27 @@
                 "Not stated",
                 "Under 1000",
                 "Under 1500",
-                "Under 2500"
+                "Under 2500",
+                ""
               ]
             },
             "title": "Birth weight"
           },
           {
-            "name": "Country",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "England",
-                "England and Wales",
-                "Northern Ireland",
-                "Scotland",
-                "Wales"
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over",
+                "19 and under",
+                ""
               ]
             },
-            "title": "Country"
-          },
-          {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Health Board",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Abertawe Bro Morgannwg University",
-                "Aneurin Bevan University",
-                "Betsi Cadwaladr University",
-                "Cardiff and Vale University",
-                "Cwm Taf University",
-                "Hywel Dda University",
-                "Powys Teaching"
-              ]
-            },
-            "title": "Health Board"
-          },
-          {
-            "name": "Observation status",
-            "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "East Midlands",
-                "East of England",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and the Humber"
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
+            "title": "Age"
           },
           {
             "name": "Unit measure",
@@ -2277,14 +2272,19 @@
             "title": "Unit multiplier"
           },
           {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2301,13 +2301,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2316,11 +2321,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2337,13 +2337,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2352,11 +2357,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2373,13 +2373,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2388,11 +2393,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2409,13 +2409,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2424,11 +2429,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2445,13 +2445,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2460,11 +2465,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2481,13 +2481,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2496,11 +2501,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2517,13 +2517,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2532,11 +2537,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2553,13 +2553,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2568,11 +2573,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2589,13 +2589,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2604,11 +2609,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2625,13 +2625,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2640,11 +2645,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2661,13 +2661,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2676,11 +2681,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2697,13 +2697,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2712,11 +2717,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2733,13 +2733,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2748,11 +2753,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2769,13 +2769,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2784,11 +2789,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2805,13 +2805,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2820,11 +2825,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2841,13 +2841,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2856,11 +2861,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2877,13 +2877,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2892,11 +2897,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2913,13 +2913,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2928,11 +2933,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2949,13 +2949,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -2964,11 +2969,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -2985,13 +2985,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3000,11 +3005,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3021,13 +3021,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3036,11 +3041,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3057,13 +3057,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3072,11 +3077,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3093,13 +3093,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3108,11 +3113,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3129,13 +3129,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3144,11 +3149,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3165,13 +3165,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3180,11 +3185,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3201,13 +3201,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3216,11 +3221,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3237,13 +3237,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3252,11 +3257,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3273,13 +3273,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3288,11 +3293,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3309,13 +3309,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3324,11 +3329,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3345,13 +3345,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3360,11 +3365,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3381,13 +3381,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3396,11 +3401,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3417,13 +3417,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3432,11 +3437,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3453,13 +3453,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3468,11 +3473,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3489,13 +3489,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3504,11 +3509,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3525,13 +3525,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3540,11 +3545,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3561,13 +3561,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3576,11 +3581,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3597,13 +3597,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3612,11 +3617,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3633,13 +3633,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3648,11 +3653,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3669,13 +3669,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3684,11 +3689,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3705,13 +3705,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3720,11 +3725,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3741,13 +3741,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3756,11 +3761,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3777,13 +3777,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3792,11 +3797,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3813,13 +3813,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3828,11 +3833,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3849,13 +3849,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3864,11 +3869,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3885,13 +3885,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3900,11 +3905,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3921,13 +3921,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3936,11 +3941,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3957,13 +3957,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -3972,11 +3977,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -3993,13 +3993,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4008,11 +4013,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4029,13 +4029,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4044,11 +4049,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4065,13 +4065,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4080,11 +4085,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4101,13 +4101,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4116,11 +4121,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4137,13 +4137,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4152,11 +4157,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4173,13 +4173,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4188,11 +4193,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4209,13 +4209,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4224,11 +4229,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4245,13 +4245,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4260,11 +4265,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4281,13 +4281,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4296,11 +4301,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4317,13 +4317,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4332,11 +4337,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4353,13 +4353,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4368,11 +4373,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4389,13 +4389,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4404,11 +4409,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4425,13 +4425,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4440,11 +4445,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4461,13 +4461,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4476,11 +4481,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4497,13 +4497,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4512,11 +4517,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4533,13 +4533,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4548,11 +4553,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4569,13 +4569,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4584,11 +4589,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4605,13 +4605,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4620,11 +4625,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4641,13 +4641,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4656,11 +4661,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4677,13 +4677,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4692,11 +4697,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4713,13 +4713,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4728,11 +4733,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4749,13 +4749,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4764,11 +4769,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4785,13 +4785,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4800,11 +4805,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4821,13 +4821,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4836,11 +4841,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4857,13 +4857,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4872,11 +4877,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4893,13 +4893,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4908,11 +4913,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4929,13 +4929,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4944,11 +4949,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -4965,13 +4965,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -4980,11 +4985,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5001,13 +5001,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5016,11 +5021,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5037,13 +5037,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5052,11 +5057,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5073,13 +5073,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5088,11 +5093,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5109,13 +5109,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5124,11 +5129,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5145,13 +5145,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5160,11 +5165,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5181,13 +5181,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5196,11 +5201,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5217,13 +5217,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5232,11 +5237,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5253,13 +5253,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5268,11 +5273,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5289,13 +5289,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5304,11 +5309,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5325,13 +5325,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5340,11 +5345,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5361,13 +5361,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5376,11 +5381,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5397,13 +5397,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5412,11 +5417,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5433,13 +5433,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5448,11 +5453,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5469,13 +5469,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5484,11 +5489,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5505,13 +5505,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5520,11 +5525,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5541,13 +5541,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5556,11 +5561,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5577,13 +5577,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5592,11 +5597,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5613,13 +5613,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5628,11 +5633,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5649,13 +5649,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5664,11 +5669,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5685,13 +5685,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5700,11 +5705,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5721,13 +5721,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5736,11 +5741,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5757,13 +5757,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5772,11 +5777,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5793,13 +5793,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5808,11 +5813,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5829,13 +5829,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5844,11 +5849,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5865,13 +5865,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5880,11 +5885,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5901,13 +5901,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5916,11 +5921,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5937,13 +5937,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5952,11 +5957,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -5973,13 +5973,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -5988,11 +5993,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6009,13 +6009,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6024,11 +6029,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6045,13 +6045,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6060,11 +6065,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6081,13 +6081,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6096,11 +6101,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6117,13 +6117,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6132,11 +6137,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6153,13 +6153,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6168,11 +6173,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6189,13 +6189,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6204,11 +6209,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6225,13 +6225,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6240,11 +6245,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6261,13 +6261,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6276,11 +6281,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6297,13 +6297,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6312,11 +6317,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6333,13 +6333,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6348,11 +6353,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6369,13 +6369,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6384,11 +6389,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6405,13 +6405,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6420,11 +6425,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6441,13 +6441,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6456,11 +6461,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6477,13 +6477,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6492,11 +6497,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6513,13 +6513,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6528,11 +6533,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6549,13 +6549,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6564,11 +6569,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6585,13 +6585,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6600,11 +6605,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6621,13 +6621,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6636,11 +6641,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6657,13 +6657,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6672,11 +6677,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6693,13 +6693,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6708,11 +6713,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6729,13 +6729,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6744,11 +6749,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6765,13 +6765,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6780,11 +6785,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6801,13 +6801,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6816,11 +6821,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6837,13 +6837,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6852,11 +6857,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6873,13 +6873,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6888,11 +6893,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6909,13 +6909,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6924,11 +6929,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6945,13 +6945,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6960,11 +6965,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -6981,13 +6981,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -6996,11 +7001,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7017,13 +7017,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7032,11 +7037,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7053,13 +7053,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7068,11 +7073,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7089,13 +7089,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7104,11 +7109,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7125,13 +7125,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7140,11 +7145,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7161,13 +7161,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7176,11 +7181,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7197,13 +7197,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7212,11 +7217,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7233,13 +7233,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7248,11 +7253,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7269,13 +7269,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7284,11 +7289,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7305,13 +7305,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7320,11 +7325,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7341,13 +7341,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7356,11 +7361,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7377,13 +7377,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7392,11 +7397,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7413,13 +7413,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7428,11 +7433,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7449,13 +7449,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7464,11 +7469,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7485,13 +7485,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7500,11 +7505,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7521,13 +7521,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7536,11 +7541,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7557,13 +7557,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7572,11 +7577,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7593,13 +7593,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7608,11 +7613,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7629,13 +7629,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7644,11 +7649,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7665,13 +7665,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7680,11 +7685,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7701,13 +7701,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7716,11 +7721,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7737,13 +7737,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7752,11 +7757,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7773,13 +7773,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7788,11 +7793,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7809,13 +7809,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7824,11 +7829,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7845,13 +7845,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7860,11 +7865,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7881,13 +7881,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7896,11 +7901,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7917,13 +7917,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -7932,11 +7937,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -7953,51 +7953,51 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "18 to under 65 years",
-                "65 years and older",
-                "17 years and younger"
-              ]
-            },
-            "title": "Age group"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Severely materially deprived persons",
                 "Persons at risk of poverty or social exclusion",
-                "Severely materially deprived persons"
+                ""
               ]
             },
             "title": "Time series"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "17 years and younger",
+                "18 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       },
@@ -8014,13 +8014,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8029,11 +8034,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8050,13 +8050,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8065,11 +8070,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8086,13 +8086,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8101,11 +8106,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8122,13 +8122,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8137,11 +8142,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8158,13 +8158,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8173,11 +8178,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8194,13 +8194,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8209,11 +8214,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8230,13 +8230,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8245,11 +8250,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8266,13 +8266,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8281,11 +8286,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8302,13 +8302,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8317,11 +8322,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8338,13 +8338,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8353,11 +8358,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8374,13 +8374,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8389,11 +8394,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8410,13 +8410,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8425,11 +8430,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8446,13 +8446,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8461,11 +8466,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8482,13 +8482,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8497,11 +8502,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8518,13 +8518,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8533,11 +8538,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8554,39 +8554,39 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "18 to under 65 years",
-                "65 years and older",
-                "17 years and younger"
-              ]
-            },
-            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "17 years and younger",
+                "18 to under 65 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       },
@@ -8603,13 +8603,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8618,11 +8623,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8639,13 +8639,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8654,11 +8659,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8675,13 +8675,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8690,11 +8695,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8711,13 +8711,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8726,11 +8731,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8747,13 +8747,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8762,11 +8767,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8783,13 +8783,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8798,11 +8803,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8819,13 +8819,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8834,11 +8839,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8855,13 +8855,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8870,11 +8875,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8891,13 +8891,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8906,11 +8911,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
@@ -8927,13 +8927,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "A",
-                "B"
+                "B",
+                ""
               ]
             },
             "title": "Group"
@@ -8942,11 +8947,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       },
