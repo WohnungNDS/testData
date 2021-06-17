@@ -11,6 +11,14 @@
       "schema": {
         "fields": [
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
@@ -19,34 +27,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
+                "",
                 "baden-wuerttemberg",
                 "bavaria",
                 "berlin",
                 "brandenburg",
                 "bremen",
+                "germany",
                 "hamburg",
                 "hesse",
-                "mecklenburg western pomerania",
                 "lower saxony",
+                "mecklenburg western pomerania",
                 "north rhine-westphalia",
                 "rhineland palatinate",
                 "saarland",
                 "saxony",
                 "saxony-anhalt",
                 "schleswig-holstein",
-                "thuringia",
-                ""
+                "thuringia"
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }
