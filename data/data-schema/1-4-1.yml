@@ -1,0 +1,17 @@
+fields:
+  - name: Value
+    type: number
+  - name: Year
+    type: integer
+  - name: sex
+    type: string
+    constraints:
+      enum:
+        - male
+        - female
+  - name: profession
+    type: string
+    constraints:
+      enum:
+        - medical doctors
+        - dentists
