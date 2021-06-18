@@ -7418,16 +7418,40 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Geschlecht"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11 Monate und jünger",
+                "4 Jahre und jünger",
+                ""
+              ]
+            },
+            "title": "Altersklasse"
+          },
+          {
+            "name": "profession",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ärzte",
+                "Zahnärzte",
+                ""
+              ]
+            },
+            "title": "Beruf"
           },
           {
             "name": "Value",

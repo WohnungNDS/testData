@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Geschlecht,Altersklasse,Beruf,Value
+2015,,,,1
+2016,,,,2
+2015,Weiblich,,,1
+2016,Weiblich,,,2
+2015,Weiblich,11 Monate und jünger,,1
+2016,Weiblich,11 Monate und jünger,,2
+2015,Weiblich,4 Jahre und jünger,,1
+2016,Weiblich,4 Jahre und jünger,,2
+2015,Weiblich,11 Monate und jünger,Ärzte,1
+2016,Weiblich,11 Monate und jünger,Ärzte,2
+2015,Weiblich,11 Monate und jünger,Zahnärzte,1
+2016,Weiblich,11 Monate und jünger,Zahnärzte,2
+2015,Weiblich,4 Jahre und jünger,Ärzte,1
+2016,Weiblich,4 Jahre und jünger,Ärzte,2
+2015,Weiblich,4 Jahre und jünger,Zahnärzte,1
+2016,Weiblich,4 Jahre und jünger,Zahnärzte,2
+2015,Weiblich,,Ärzte,1
+2016,Weiblich,,Ärzte,2
+2015,Weiblich,,Zahnärzte,1
+2016,Weiblich,,Zahnärzte,2
+2015,Männlich,,,1
+2016,Männlich,,,2
+2015,Männlich,11 Monate und jünger,,1
+2016,Männlich,11 Monate und jünger,,2
+2015,Männlich,4 Jahre und jünger,,1
+2016,Männlich,4 Jahre und jünger,,2
+2015,Männlich,11 Monate und jünger,Ärzte,1
+2016,Männlich,11 Monate und jünger,Ärzte,2
+2015,Männlich,11 Monate und jünger,Zahnärzte,1
+2016,Männlich,11 Monate und jünger,Zahnärzte,2
+2015,Männlich,4 Jahre und jünger,Ärzte,1
+2016,Männlich,4 Jahre und jünger,Ärzte,2
+2015,Männlich,4 Jahre und jünger,Zahnärzte,1
+2016,Männlich,4 Jahre und jünger,Zahnärzte,2
+2015,Männlich,,Ärzte,1
+2016,Männlich,,Ärzte,2
+2015,Männlich,,Zahnärzte,1
+2016,Männlich,,Zahnärzte,2
+2015,,,Ärzte,1
+2016,,,Ärzte,2
+2015,,,Zahnärzte,1
+2016,,,Zahnärzte,2

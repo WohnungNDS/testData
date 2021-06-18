@@ -15,12 +15,34 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 1 year",
+                "under 5 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "profession",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) medical doctors",
+                "b) dentists",
                 ""
               ]
             }

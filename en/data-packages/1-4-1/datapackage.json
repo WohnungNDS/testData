@@ -16,16 +16,40 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Sex"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11 months and younger",
+                "4 years and younger",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "profession",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical doctors",
+                "Dentists",
+                ""
+              ]
+            },
+            "title": "Profession"
           },
           {
             "name": "Value",

@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,sex,age,profession,Value
+2015,,,,1
+2016,,,,2
+2015,female,,,1
+2016,female,,,2
+2015,female,under 1 year,,1
+2016,female,under 1 year,,2
+2015,female,under 5 years,,1
+2016,female,under 5 years,,2
+2015,female,under 1 year,a) medical doctors,1
+2016,female,under 1 year,a) medical doctors,2
+2015,female,under 1 year,b) dentists,1
+2016,female,under 1 year,b) dentists,2
+2015,female,under 5 years,a) medical doctors,1
+2016,female,under 5 years,a) medical doctors,2
+2015,female,under 5 years,b) dentists,1
+2016,female,under 5 years,b) dentists,2
+2015,female,,a) medical doctors,1
+2016,female,,a) medical doctors,2
+2015,female,,b) dentists,1
+2016,female,,b) dentists,2
+2015,male,,,1
+2016,male,,,2
+2015,male,under 1 year,,1
+2016,male,under 1 year,,2
+2015,male,under 5 years,,1
+2016,male,under 5 years,,2
+2015,male,under 1 year,a) medical doctors,1
+2016,male,under 1 year,a) medical doctors,2
+2015,male,under 1 year,b) dentists,1
+2016,male,under 1 year,b) dentists,2
+2015,male,under 5 years,a) medical doctors,1
+2016,male,under 5 years,a) medical doctors,2
+2015,male,under 5 years,b) dentists,1
+2016,male,under 5 years,b) dentists,2
+2015,male,,a) medical doctors,1
+2016,male,,a) medical doctors,2
+2015,male,,b) dentists,1
+2016,male,,b) dentists,2
+2015,,,a) medical doctors,1
+2016,,,a) medical doctors,2
+2015,,,b) dentists,1
+2016,,,b) dentists,2
