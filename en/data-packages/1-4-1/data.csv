@@ -3,10 +3,40 @@ Year,Sex,Age group,Profession,Value
 2016,,,,2
 2015,Female,,,1
 2016,Female,,,2
+2015,Male,,,1
+2016,Male,,,2
+2015,,11 months and younger,,1
+2016,,11 months and younger,,2
+2015,,4 years and younger,,1
+2016,,4 years and younger,,2
+2015,,,medical doctors,1
+2016,,,medical doctors,2
+2015,,,dentists,1
+2016,,,dentists,2
 2015,Female,11 months and younger,,1
 2016,Female,11 months and younger,,2
 2015,Female,4 years and younger,,1
 2016,Female,4 years and younger,,2
+2015,Male,11 months and younger,,1
+2016,Male,11 months and younger,,2
+2015,Male,4 years and younger,,1
+2016,Male,4 years and younger,,2
+2015,Female,,medical doctors,1
+2016,Female,,medical doctors,2
+2015,Female,,dentists,1
+2016,Female,,dentists,2
+2015,Male,,medical doctors,1
+2016,Male,,medical doctors,2
+2015,Male,,dentists,1
+2016,Male,,dentists,2
+2015,,11 months and younger,medical doctors,1
+2016,,11 months and younger,medical doctors,2
+2015,,4 years and younger,medical doctors,1
+2016,,4 years and younger,medical doctors,2
+2015,,11 months and younger,dentists,1
+2016,,11 months and younger,dentists,2
+2015,,4 years and younger,dentists,1
+2016,,4 years and younger,dentists,2
 2015,Female,11 months and younger,medical doctors,1
 2016,Female,11 months and younger,medical doctors,2
 2015,Female,11 months and younger,dentists,1
@@ -15,16 +45,6 @@ Year,Sex,Age group,Profession,Value
 2016,Female,4 years and younger,medical doctors,2
 2015,Female,4 years and younger,dentists,1
 2016,Female,4 years and younger,dentists,2
-2015,Female,,medical doctors,1
-2016,Female,,medical doctors,2
-2015,Female,,dentists,1
-2016,Female,,dentists,2
-2015,Male,,,1
-2016,Male,,,2
-2015,Male,11 months and younger,,1
-2016,Male,11 months and younger,,2
-2015,Male,4 years and younger,,1
-2016,Male,4 years and younger,,2
 2015,Male,11 months and younger,medical doctors,1
 2016,Male,11 months and younger,medical doctors,2
 2015,Male,11 months and younger,dentists,1
@@ -33,11 +53,3 @@ Year,Sex,Age group,Profession,Value
 2016,Male,4 years and younger,medical doctors,2
 2015,Male,4 years and younger,dentists,1
 2016,Male,4 years and younger,dentists,2
-2015,Male,,medical doctors,1
-2016,Male,,medical doctors,2
-2015,Male,,dentists,1
-2016,Male,,dentists,2
-2015,,,medical doctors,1
-2016,,,medical doctors,2
-2015,,,dentists,1
-2016,,,dentists,2
