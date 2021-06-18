@@ -17,4 +17,8 @@ fields:
         - dentists
   - name: age
     type: string
+    constraints:
+      enum:
+      - under 1 year
+      - under 5 years
   
