@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) medical doctors",
-                "b) dentists",
+                "medical doctors",
+                "dentists",
                 ""
               ]
             }

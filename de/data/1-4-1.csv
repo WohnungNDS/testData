@@ -7,37 +7,37 @@ Year,Geschlecht,Altersklasse,Beruf,Value
 2016,Weiblich,11 Monate und jünger,,2
 2015,Weiblich,4 Jahre und jünger,,1
 2016,Weiblich,4 Jahre und jünger,,2
-2015,Weiblich,11 Monate und jünger,Ärzte,1
-2016,Weiblich,11 Monate und jünger,Ärzte,2
-2015,Weiblich,11 Monate und jünger,Zahnärzte,1
-2016,Weiblich,11 Monate und jünger,Zahnärzte,2
-2015,Weiblich,4 Jahre und jünger,Ärzte,1
-2016,Weiblich,4 Jahre und jünger,Ärzte,2
-2015,Weiblich,4 Jahre und jünger,Zahnärzte,1
-2016,Weiblich,4 Jahre und jünger,Zahnärzte,2
-2015,Weiblich,,Ärzte,1
-2016,Weiblich,,Ärzte,2
-2015,Weiblich,,Zahnärzte,1
-2016,Weiblich,,Zahnärzte,2
+2015,Weiblich,11 Monate und jünger,medical doctors,1
+2016,Weiblich,11 Monate und jünger,medical doctors,2
+2015,Weiblich,11 Monate und jünger,dentists,1
+2016,Weiblich,11 Monate und jünger,dentists,2
+2015,Weiblich,4 Jahre und jünger,medical doctors,1
+2016,Weiblich,4 Jahre und jünger,medical doctors,2
+2015,Weiblich,4 Jahre und jünger,dentists,1
+2016,Weiblich,4 Jahre und jünger,dentists,2
+2015,Weiblich,,medical doctors,1
+2016,Weiblich,,medical doctors,2
+2015,Weiblich,,dentists,1
+2016,Weiblich,,dentists,2
 2015,Männlich,,,1
 2016,Männlich,,,2
 2015,Männlich,11 Monate und jünger,,1
 2016,Männlich,11 Monate und jünger,,2
 2015,Männlich,4 Jahre und jünger,,1
 2016,Männlich,4 Jahre und jünger,,2
-2015,Männlich,11 Monate und jünger,Ärzte,1
-2016,Männlich,11 Monate und jünger,Ärzte,2
-2015,Männlich,11 Monate und jünger,Zahnärzte,1
-2016,Männlich,11 Monate und jünger,Zahnärzte,2
-2015,Männlich,4 Jahre und jünger,Ärzte,1
-2016,Männlich,4 Jahre und jünger,Ärzte,2
-2015,Männlich,4 Jahre und jünger,Zahnärzte,1
-2016,Männlich,4 Jahre und jünger,Zahnärzte,2
-2015,Männlich,,Ärzte,1
-2016,Männlich,,Ärzte,2
-2015,Männlich,,Zahnärzte,1
-2016,Männlich,,Zahnärzte,2
-2015,,,Ärzte,1
-2016,,,Ärzte,2
-2015,,,Zahnärzte,1
-2016,,,Zahnärzte,2
+2015,Männlich,11 Monate und jünger,medical doctors,1
+2016,Männlich,11 Monate und jünger,medical doctors,2
+2015,Männlich,11 Monate und jünger,dentists,1
+2016,Männlich,11 Monate und jünger,dentists,2
+2015,Männlich,4 Jahre und jünger,medical doctors,1
+2016,Männlich,4 Jahre und jünger,medical doctors,2
+2015,Männlich,4 Jahre und jünger,dentists,1
+2016,Männlich,4 Jahre und jünger,dentists,2
+2015,Männlich,,medical doctors,1
+2016,Männlich,,medical doctors,2
+2015,Männlich,,dentists,1
+2016,Männlich,,dentists,2
+2015,,,medical doctors,1
+2016,,,medical doctors,2
+2015,,,dentists,1
+2016,,,dentists,2
