@@ -9,11 +9,12 @@ fields:
       enum:
         - male
         - female
-  - name: age
-    type: string
   - name: profession
     type: string
     constraints:
       enum:
         - medical doctors
         - dentists
+  - name: age
+    type: string
+  
