@@ -11,16 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Jahr"
@@ -30,27 +20,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Deutschland",
                 "Baden-Württemberg",
                 "Bayern",
                 "Berlin",
                 "Brandenburg",
                 "Bremen",
-                "Deutschland",
                 "Hamburg",
                 "Hessen",
-                "Niedersachsen",
                 "Mecklenburg-Vorpommern",
+                "Niedersachsen",
                 "Nordrhein-Westfalen",
                 "Rheinland-Pfalz",
                 "Saarland",
                 "Sachsen",
                 "Sachsen-Anhalt",
                 "Schleswig-Holstein",
-                "Thüringen"
+                "Thüringen",
+                ""
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
