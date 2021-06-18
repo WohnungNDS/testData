@@ -9,6 +9,8 @@ fields:
       enum:
         - male
         - female
+  - name: age
+    type: string
   - name: profession
     type: string
     constraints:
