@@ -11,30 +11,23 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Female",
-                "Male",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "11 months and younger",
-                "4 years and younger",
-                ""
+                "4 years and younger"
               ]
             },
             "title": "Age group"
@@ -44,17 +37,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "medical doctors",
+                "",
                 "dentists",
-                ""
+                "medical doctors"
               ]
             },
             "title": "Profession"
           },
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           }
         ]
       }

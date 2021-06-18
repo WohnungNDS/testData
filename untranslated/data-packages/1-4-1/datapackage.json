@@ -11,28 +11,21 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "Value",
             "type": "integer"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "under 1 year",
-                "under 5 years",
-                ""
+                "under 5 years"
               ]
             }
           },
@@ -41,15 +34,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "medical doctors",
+                "",
                 "dentists",
-                ""
+                "medical doctors"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "integer"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female",
+                "male"
+              ]
+            }
           }
         ]
       }

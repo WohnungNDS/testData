@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
+            "name": "Value",
+            "type": "number"
+          },
+          {
             "name": "Year",
             "type": "integer"
           },
           {
-            "name": "timeseries",
+            "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "severely materially deprived persons",
-                "persons at risk of poverty or social exclusion",
-                ""
+                "",
+                "18 to under 65 years",
+                "65 years and over",
+                "under 18 years"
               ]
             }
           },
@@ -30,27 +35,22 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "female",
-                "male",
-                ""
+                "male"
               ]
             }
           },
           {
-            "name": "age",
+            "name": "timeseries",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
-                "18 to under 65 years",
-                "65 years and over",
-                ""
+                "",
+                "persons at risk of poverty or social exclusion",
+                "severely materially deprived persons"
               ]
             }
-          },
-          {
-            "name": "Value",
-            "type": "number"
           }
         ]
       }

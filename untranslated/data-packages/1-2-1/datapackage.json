@@ -11,35 +11,35 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer"
+            "name": "Value",
+            "type": "number"
           },
           {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            }
+            "name": "Year",
+            "type": "integer"
           },
           {
             "name": "age",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years",
+                "",
                 "18 to under 65 years",
                 "65 years and over",
-                ""
+                "under 18 years"
               ]
             }
           },
           {
-            "name": "Value",
-            "type": "number"
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female",
+                "male"
+              ]
+            }
           }
         ]
       }
