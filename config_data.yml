@@ -123,3 +123,10 @@ datapackage:
 data_schema:
   class: DataSchemaInputTableSchemaYaml
   source: data-schema/*.yml
+  
+map_layers:
+  - geojson_file: boundaries.geojson
+    name_property: GEN
+    id_property: AGS
+    output_subfolder: regions
+    filename_prefix: indicator_
