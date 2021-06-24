@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_jp",
       "schema": {
         "fields": [
           {
@@ -16,20 +16,39 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Region"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
