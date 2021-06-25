@@ -1,5 +1,5 @@
 Year,region,GeoCode,Value
-2010,,,1.1
+2010,,,
 2010,baden-wuerttemberg,code08,7.0
 2010,bavaria,code09,6.1
 2010,berlin,code11,12.4
@@ -15,8 +15,8 @@ Year,region,GeoCode,Value
 2010,saxony,code14,3.7
 2010,saxony-anhalt,code15,4.2
 2010,schleswig-holstein,code01,3.3
-2010,thuringia,code16,4.4201
-2011,,,10.1
+2010,thuringia,code16,4.4
+2011,,,20.1
 2011,baden-wuerttemberg,code08,7.0
 2011,bavaria,code09,6.1
 2011,berlin,code11,12.4

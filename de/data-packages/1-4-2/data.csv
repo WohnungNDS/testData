@@ -1,5 +1,5 @@
 Year,Region,GeoCode,Value
-2010,,,1.1
+2010,,,
 2010,Baden-Württemberg,code08,7.0
 2010,Bayern,code09,6.1
 2010,Berlin,code11,12.4
@@ -15,8 +15,8 @@ Year,Region,GeoCode,Value
 2010,Sachsen,code14,3.7
 2010,Sachsen-Anhalt,code15,4.2
 2010,Schleswig-Holstein,code01,3.3
-2010,Thüringen,code16,4.4201
-2011,,,10.1
+2010,Thüringen,code16,4.4
+2011,,,20.1
 2011,Baden-Württemberg,code08,7.0
 2011,Bayern,code09,6.1
 2011,Berlin,code11,12.4
