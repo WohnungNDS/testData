@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
-age,3,5
 Age,1,6
+age,3,5
 Birth weight,1,11
 Country,1,5
 Group,1,2
@@ -8,6 +8,6 @@ Health Board,1,7
 profession,1,2
 region,2,17
 Region,1,9
-sex,3,2
 Sex,1,2
+sex,3,2
 timeseries,1,2
