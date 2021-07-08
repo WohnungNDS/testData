@@ -16,20 +16,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Verhältnis zum BIP (%)",
+                "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
+                "EUR je Einwohner",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

@@ -970,20 +970,21 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Relative to GDP (%)",
+                "As proportion of total gross value added (%)",
+                "EUR per inhabitant",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

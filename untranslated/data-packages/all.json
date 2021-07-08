@@ -891,19 +891,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "relative to gdp",
+                "as proportion of total gross value added",
+                "eur per inhabitant",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
