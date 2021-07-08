@@ -974,13 +974,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relative to GDP (%)",
-                "As proportion of total gross value added (%)",
-                "EUR per inhabitant",
+                "Percentage",
+                "EUR",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Relative to GDP (%)",
+                "As proportion of total gross value added (%)",
+                " per inhabitant",
+                ""
+              ]
+            },
+            "title": "Time series"
           },
           {
             "name": "Value",

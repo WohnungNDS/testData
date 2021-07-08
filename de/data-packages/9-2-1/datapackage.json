@@ -20,13 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis zum BIP (%)",
-                "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
-                "EUR je Einwohner",
+                "Prozent",
+                "EUR",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verhältnis zum BIP (%)",
+                "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
+                " per inhabitant",
+                ""
+              ]
+            },
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",

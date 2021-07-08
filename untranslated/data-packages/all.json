@@ -895,9 +895,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "%",
+                "eur",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "relative to gdp",
                 "as proportion of total gross value added",
-                "eur per inhabitant",
+                " per inhabitant",
                 ""
               ]
             }
