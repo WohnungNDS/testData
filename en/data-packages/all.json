@@ -986,8 +986,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Relative to GDP (%)",
-                "As proportion of total gross value added (%)",
+                "Verhältnis zum BIP",
+                "Verhältnis zur Bruttowertschöpfung insgesamt",
                 "Je Einwohner",
                 ""
               ]

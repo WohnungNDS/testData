@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis zum BIP (%)",
-                "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
+                "Verhältnis zum BIP",
+                "Verhältnis zur Bruttowertschöpfung insgesamt",
                 "Je Einwohner",
                 ""
               ]
