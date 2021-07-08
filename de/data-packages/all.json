@@ -988,7 +988,7 @@
               "enum": [
                 "Verhältnis zum BIP (%)",
                 "Verhältnis zur Bruttowertschöpfung insgesamt (%)",
-                " per inhabitant",
+                "Je Einwohner",
                 ""
               ]
             },
